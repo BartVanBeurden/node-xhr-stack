@@ -1,0 +1,16 @@
+{
+  "name": "node-xhr-stack",
+  "version": "0.0.1",
+  "description": "XHR Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "XHR",
+    "XmlHttpRequest",
+    "Stack"
+  ],
+  "author": "Bart Van Beurden",
+  "license": "WTFPL"
+}
